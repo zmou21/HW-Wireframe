@@ -9,39 +9,43 @@
 
 
 .header {
-	width: 495px;
+	width: 960px;
 	border: 1px solid #ebebeb;
-	margin: 15px 200px;
-	padding: 50px 50px 50px;
+	float: center;
+	margin: 5px 0;
+	padding: 5px 0;
 	text-align: center;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 1.5em;
 	background-color: #ebebeb;
+	color: #777;
 }
 				
 
 
 .nav {
-	width: 495px;
+	width: 960px;
 	border: 1px solid #ebebeb;
-	margin: 15px 200px;
-	padding: 50px 50px 50px;
+	margin: 5px 0px;
+	padding: 5px 0px;
 	text-align: center;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 1.5em;
 	background-color: #ebebeb;
+	color: #777;
 }
 
 .wrap {
-	width: 495px;
+	width: 960px;
 	max-height: auto ;
-	margin: 0px 200px;
+	margin: 5px 0px;
+	color: #777;
 }
 
 .section {
 	float: left;
-	width: 380px;
-	height: 240px;
+	width: 638px;
+	height: 425px;
 	border: 1px solid #ebebeb;
 	margin: 15px 1px;
 	padding: 1px;
@@ -49,30 +53,60 @@
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 1.5em;
 	background-color: #ebebeb;
+	color: #777;
 }
+
+#article {
+	width: 500px;
+	text-align: center; 
+	margin: 0 70px;
+	padding: 5px;
+	background-color: #777;
+	color: #ebebeb;
+}
+
+#h3 {
+	width: 400px;
+	margin: 10px 40px 10px;
+	padding: 5px;
+	background-color: #ebebeb;
+	color: #777;
+}
+
+
+#paragraph {
+	width: 400px;
+	margin: 10px 40px 10px;
+	padding: 5px;
+	background-color: #ebebeb;
+	color: #777;
+
+}
+
 
 .aside {
 	float: right;
-	width: 200px;
-	height: 240px;
+	width: 308px;
+	height: 425px;
 	border: 1px solid #ebebeb;
-	margin: 15px -100px;
+	margin: 15px 2px;
 	padding: 1px;
 	text-align: center;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 1.5em;
 	background-color: #ebebeb;
-
+	color: #777;
 }
 
 .footer {
-	width: 495px;
+	width: 960px;
 	border: 1px solid #ebebeb;
-	margin: 15px 200px;
-	padding: 50px 50px 50px;
+	margin: 15px 0;
+	padding: 15px 0;
 	text-align: center;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 1.5em;
 	background-color: #ebebeb;
 	clear: both;
+	color: #777;
 }
